@@ -1,80 +1,92 @@
-# Hi, I'm Logeshwaran 👋
+<h1 align="center">Hi 👋, I'm Logeshwaran</h1>
+<h3 align="center">Data Analyst | SQL | Python | Power BI | Excel</h3>
 
-💻 Data Analyst | SQL | Python | Power BI | Excel  
-📊 Passionate about transforming data into meaningful insights
+<p align="center">
+Passionate about transforming data into meaningful insights and building data-driven solutions.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science graduate with experience in data analysis and business intelligence. I have worked as a Data Analyst where I analyzed data, built reports, and created dashboards to support business decision making.
-
-I enjoy working with data, identifying trends, and building analytical solutions that help organizations make data-driven decisions.
+- 🎓 BE Computer Science & Engineering graduate  
+- 💼 1.5 years experience as a **Data Analyst at Greensoft Groups**  
+- 📊 Skilled in **SQL, Python, Power BI, and Excel**  
+- 📈 Interested in **data analysis, business intelligence, and analytics**  
+- 🚀 Currently improving my **Python and advanced data analytics skills**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-**Programming & Query Languages**
-
-SQL  
-Python  
-
-**Data Visualization**
-
-Power BI  
-Excel  
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,github" />
+</p>
 
 **Data Analysis**
 
-Data Cleaning  
-Data Transformation  
-Exploratory Data Analysis  
-Dashboard Development  
+- SQL  
+- Python  
+- Excel  
+
+**Data Visualization**
+
+- Power BI  
+- Excel Dashboards  
+
+**Concepts**
+
+- Data Cleaning  
+- Exploratory Data Analysis  
+- Business Insights  
+- Dashboard Development  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Data Analytics Portfolio
 
 ### 📊 E-Commerce Sales & Customer Analysis (SQL)
-Analyzed customer, order, and product data to identify sales trends, top customers, and payment preferences.
+Analyzed customer, product, and order data to identify revenue trends, top customers, and payment preferences.
 
-Skills used:
-SQL Joins  
-Aggregations  
-Window Functions  
-Stored Procedures  
-Triggers  
-
----
-
-### 📈 Seasonal Hospitality Dashboard (Power BI)
-Created an interactive dashboard to analyze sales performance across different regions and categories.
+Skills:
+- SQL Joins
+- Aggregations
+- Window Functions
+- Stored Procedures
+- Triggers
 
 ---
 
-### 📉 Data Analysis using Python
-Performed data cleaning and exploratory data analysis using Python libraries such as Pandas and Matplotlib.
+### 📈 Seasonal hospitality Dashboard (Power BI)
+Developed an interactive dashboard to track sales performance and regional trends.
 
 ---
 
-## 📚 Currently Learning
+### 📉 Python Data Analysis
+Performed data cleaning and exploratory data analysis using **Pandas and Matplotlib**.
 
-Python for Data Analysis  
-Data Visualization Techniques  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Log-ware&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Log-ware&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:www.linkedin.com/in/logesh-waran-870078242  
-Email: logesh17799@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/logesh-waran-870078242
+- 📧 Email: logesh17799@gmail.com
 
 ---
 
-⭐ Always interested in working on data-driven projects and learning new analytics tools.
+⭐ Always interested in learning new data technologies and solving real-world business problems using data.
 
-<!---
-Log-ware/Log-ware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
