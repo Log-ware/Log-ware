@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm Logeshwaran 👋</h1>
-
 <p align="center">
-  <b>Data Analyst · SQL · Python · Power BI</b><br>
-  Turning messy, multi-source data into decisions businesses can act on.<br>
-  📍 Chennai, India &nbsp;|&nbsp; Open to onsite & remote roles
+  <img src="C:\Users\loges\Downloads\banner.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
