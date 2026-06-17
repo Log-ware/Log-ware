@@ -76,7 +76,9 @@ Cleaned and transformed **30,000+ sales records** across 6 regional sources usin
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Log-ware&layout=compact&theme=dark&hide_border=true" width="40%"/>
 </p>
+## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Log-ware&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📫 Let's Connect
