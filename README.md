@@ -69,13 +69,7 @@ Cleaned and transformed **30,000+ sales records** across 6 regional sources usin
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Log-ware&theme=dark&hide_border=true" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Log-ware&layout=compact&theme=dark&hide_border=true" width="40%"/>
-</p>
 ## 📂 Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Log-ware&repo=Data-Analytics-Portfolio)](https://github.com/Log-ware/Data-Analytics-Portfolio)
