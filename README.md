@@ -81,7 +81,7 @@ Cleaned and transformed **30,000+ sales records** across 6 regional sources usin
 [![trophy](https://github-profile-trophy.vercel.app/?username=Log-ware&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Log-ware&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
