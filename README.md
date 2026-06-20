@@ -11,7 +11,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Log-ware&color=0e75b6&style=flat" alt="profile views"/>
   <a href="https://logesh-waran.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-logeshwaran--a-0077B5?style=flat&logo=Portfolio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-logesh-waran-0077B5?style=flat&logo=Portfolio&logoColor=white"/>
   </a>
 
   
